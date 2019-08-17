@@ -16,7 +16,7 @@ def hopper
           :languages => ["C"]
         }
      }
-hopper.delete("grace_hopper")
+
 
 end
 
